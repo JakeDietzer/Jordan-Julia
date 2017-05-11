@@ -1,0 +1,60 @@
+{
+"greetings": {
+  "queries":  [
+      "Hello",
+      "Hi"
+      ],
+      "responses"; [
+      "Hello sir",
+      "Hi how are you?"
+     ],
+     "weighted_keywords": []
+     
+     },
+     "weather": {
+      "queries": [
+      "How is the weather?",
+      "The weather please",
+      "What's the weather like?"
+     ],
+     "responses": [
+     "It is raining today.",
+     "It is quite sunny today.",
+     "No idea, I live in the cloud and it's always sunny"
+     
+     ],
+     "weighted_keywords": ]"weather"]
+     
+     },
+     "info": {
+     "queries":
+     "Who are you?",
+     "What are you?"
+     
+     ],
+     "responses": [
+     "I am Julia your virtual assistant!"
+     
+     ],
+     "weighted_keywords": []
+     },
+     "creator": {
+     "queries": [
+     "Who created you?",
+     "Who is your creator?"
+    ],
+    "responses": [
+    "I am created by the one the only Jake Dietzer",
+    "Well thats easy, im created by Jake Dietzer"
+   ],
+   "weighted_keywords": []
+   "queries": [],
+   "responses": [
+   "Sorry im not quite capabal to perform that action yet.",
+   "I apologize but, this is too advanced for me."
+  ],
+  "weighted_keywords": []
+     
+      
+      
+      
